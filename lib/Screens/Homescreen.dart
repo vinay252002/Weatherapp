@@ -30,7 +30,7 @@ class _HomeScreenState extends State<HomeScreen> {
     data4 = await client.getCurrentWeather("Hyderabad");
     data5 = await client.getCurrentWeather("Tamil Nadu");
     data6 = await client.getCurrentWeather("Kerala");
-    data7 = await client.getCurrentWeather("Bihar");
+    data7 = await client.getCurrentWeather("Punjab");
     data8 = await client.getCurrentWeather("Patna");
     data9 = await client.getCurrentWeather("Gujarat");
   }
