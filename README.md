@@ -1,8 +1,4 @@
 <<<<<<< HEAD
-# weatherr
-
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -17,5 +13,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # Weatherapp
-App developed using flutter
+App developed using flutter.
+This app built using flutter and also integrated with API .
+Some of functions not working in the app like search button.
 >>>>>>> d37940baca684251b16cca9f1a3a291c1598be52
